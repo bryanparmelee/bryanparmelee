@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bryanparmelee
-- 👀 I’m interested in frontend development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Javascript, React and Node.js.
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me bryan.parmelee@gmail.com
