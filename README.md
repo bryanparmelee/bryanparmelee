@@ -1,9 +1,9 @@
 <h2>About me</h2>
-- 👋 Hi, I’m @bryanparmelee
-- 👀 I’m a font-end developer based in Vermont.
-- 🌱 I’m currently learning React, Next.js and Node.js.
-- 💞️ I’m looking to collaborate on open source projects.
-- 💞️ I'm interested in music, nature, soccer and skateboarding.
+- 👋 Hi, I’m @bryanparmelee<br>
+- 👀 I’m a font-end developer based in Vermont.<br>
+- 🌱 I’m currently learning React, Next.js and Node.js.<br>
+- 💞️ I’m looking to collaborate on open source projects.<br>
+- 💞️ I'm interested in music, nature, soccer and skateboarding.<br>
 - 📫 How to reach me bryan.parmelee@gmail.com
 
 <h2>Tech Stack</h2>
