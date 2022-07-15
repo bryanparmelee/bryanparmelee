@@ -1,6 +1,6 @@
 <h2>About me</h2>
 - 👋 Hi, I’m @bryanparmelee<br>
-- 👀 I’m a font-end developer based in Vermont.<br>
+- 👀 I’m a front-end developer based in Vermont.<br>
 - 🌱 I’m currently learning React, Next.js and Node.js.<br>
 - 💞️ I’m looking to collaborate on open source projects.<br>
 - 💞️ I'm interested in music, nature, soccer and skateboarding.<br>
