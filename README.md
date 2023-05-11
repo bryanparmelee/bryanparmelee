@@ -1,7 +1,12 @@
 ## Hello, I'm Bryan Parmelee
   - I’m a frontend developer based in Vermont.<br>
   - I’m always looking to contribute to open source projects and grow my skillset.<br>
-  - When I'm not coding I'm busy making/listening to music, exploring nature, watching soccer and researching new ways to tame my cat.<br>
+  - When I'm not busy coding I'm: 
+    - making/listening to music 
+    - exploring nature 
+    - watching soccer
+    - researching new ways to tame my cat
+  - You can also view my work at [bryanparmelee.dev](https://bryanparmelee.dev/) 
   - Feel free to reach out! bryan.parmelee@gmail.com
 
 ## Here are some of the technologies I enjoy working with:
